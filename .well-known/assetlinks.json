@@ -1,7 +1,7 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "oneapp",
+    "namespace": "android_app",
     "package_name": "com.moneyone.oneapp",
     "sha256_cert_fingerprints":
     ["B6:FD:92:31:8D:AB:41:0D:5D:A8:16:58:C5:61:DF:ED:34:4F:C7:7D:D8:1E:E3:56:EA:06:94:63:AA:1E:E2:89"]
